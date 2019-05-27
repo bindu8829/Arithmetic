@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "Hima Bindu"
+  },
+  "description": "Arithmetic Module",
+  "name": "Arithmetic",
+  "version": "0.1.1",
+  "main": "Arithmetic_operators",
+  "repository": {
+	"type": "git",
+	"url": ""}
+}
